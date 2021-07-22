@@ -1,3 +1,3 @@
 export default function primeiro() {
-    return "Primeira página"
+    return "Primeiro"
 }
