@@ -1,3 +1,4 @@
+// JSX
 export default function segundo() {
-    return "segundo"
+    return <h1>Segundo</h1>
 }
